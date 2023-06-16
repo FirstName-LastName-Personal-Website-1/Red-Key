@@ -1,2 +1,1 @@
-# Gold-nugget
-# block_14_workshop
+#This holds my block 24 assignment
